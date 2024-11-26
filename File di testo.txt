@@ -1,5 +1,5 @@
-FILE DI TESTO VERSIONE 1.0
+FILE DI TESTO VERSIONE 1.0.1
 ==========================
 
 FUNZIONALITA'
-	nessuna al momento
+	- funzionalità 1.
