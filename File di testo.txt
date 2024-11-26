@@ -1,0 +1,5 @@
+FILE DI TESTO VERSIONE 1.0
+==========================
+
+FUNZIONALITA'
+	nessuna al momento
