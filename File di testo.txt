@@ -3,6 +3,4 @@ FILE DI TESTO VERSIONE 1.0.1
 
 FUNZIONALITA'
 	- funzionalità 1.
-
-
-	- funzionalità 4.
+	- funzionalità 2.
